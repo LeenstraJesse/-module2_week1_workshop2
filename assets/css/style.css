@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+ul.square {
+    list-style-type: square;
+}
+
+ul.ernaast {
+    list-style-type: none;
+    display: inline-flex;
+}
